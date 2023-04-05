@@ -1,3 +1,3 @@
 # DEMO_repo
 
-This is Amar Sing
+This is Amar Singh
